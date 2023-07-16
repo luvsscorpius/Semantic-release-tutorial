@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-tutorial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "how to do automatic semantic release",
   "main": "index.js",
   "scripts": {

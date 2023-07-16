@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/luvsscorpius/Semantic-release-tutorial/compare/v1.0.0...v1.0.1) (2023-07-16)
+
+
+### Bug Fixes
+
+* **readme error:** rEADME updated ([e6d1e59](https://github.com/luvsscorpius/Semantic-release-tutorial/commit/e6d1e590616804fac664120fe3f22f151dbe1411))
+
 # 1.0.0 (2023-07-16)
 
 
