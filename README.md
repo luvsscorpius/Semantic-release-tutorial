@@ -68,3 +68,7 @@ jobs:
 10. If your workflow fail, you need to go to settings > actions > generals > workflow permissions > Read and write.
 11. Now you need to go npm web site, log > access token > generate new token > name > GITHUB_TOKEN > publish.
 12. Copy your token and on your repo on github go to settings > secrets and variables > actions > new repository secret > name > NPM_TOKEN > and paste your secret
+
+## In any case if you need the link 
+
+### notion: https://coral-poultry-e03.notion.site/Semantic-release-Tutorial-080f94345cd241159197d2dc37af7884?pvs=4
